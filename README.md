@@ -30,6 +30,29 @@ This project was developed as part of the **CodeAlpha Java Programming Internshi
 - `GradeStatistics.java`: Utility class for calculating averages, maximums, and minimums.
 - `FileManager.java`: Handles the persistence logic for saving and loading data.
 - `Main.java`: Legacy console-based entry point (maintained for compatibility).
+
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Student Management
+![Students](screenshots/students.png)
+
+### Student Search
+![Search](screenshots/search.png)
+
+### Add Student
+![Add Student](screenshots/add-student.png)
+
+### Add Grade
+![Add Grade](screenshots/add-grade.png)
+
+### Student Details
+![Student Details](screenshots/student-details.png)
+
+### Academic Summary
+![Academic Summary](screenshots/academic-summary.png)
  
 ## How to Run
  
@@ -57,4 +80,4 @@ java -cp out src.StudentGradeTrackerGUI
 The application uses Java Serialization to save the student list to `data/students.dat`. This allows all student records and their associated grades to be preserved upon exiting the application.
  
 ## Author
-Developed as part of the CodeAlpha Java Internship.
+Developed By Sandesh as part of the CodeAlpha Java Internship.
