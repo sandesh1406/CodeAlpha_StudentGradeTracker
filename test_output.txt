@@ -1,0 +1,156 @@
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: Enter Student Name: [SUCCESS] Student added successfully!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: Enter Student Name: [SUCCESS] Student added successfully!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: Enter Grade (0-100): [SUCCESS] Grade added successfully!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: Enter Grade (0-100): [SUCCESS] Grade added successfully!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: Enter Grade (0-100): [SUCCESS] Grade added successfully!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: 
+====================================================================
+                      STUDENT SUMMARY REPORT
+====================================================================
+ID         NAME                 AVERAGE      HIGHEST      LOWEST      
+--------------------------------------------------------------------
+ST001      Sandesh              88.50        92.00        85.00       
+ST002      Rahul                78.00        78.00        78.00       
+====================================================================
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: Enter Student ID: 
+==================================================
+STUDENT DETAILS
+==================================================
+ID:       ST001
+Name:     Sandesh
+Grades:   [85.0, 92.0]
+Average:   88.50
+Highest:   92.00
+Lowest:    85.00
+==================================================
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: [SUCCESS] Data saved successfully to data/students.dat!
+
+==================================================
+             STUDENT GRADE TRACKER
+==================================================
+1. Add Student
+2. Add Grade
+3. View All Students
+4. View Student Details
+5. Remove Student
+6. Generate Summary Report
+7. Save Data
+8. Load Data
+9. Exit
+==================================================
+Enter your choice: 
+==================================================
+Exiting Student Grade Tracker. Goodbye!
+==================================================

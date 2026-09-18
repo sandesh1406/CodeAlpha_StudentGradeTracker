@@ -1,0 +1,5 @@
+out/
+*.class
+data/students.dat
+.claude/
+*.log
